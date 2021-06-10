@@ -1,2 +1,2 @@
 # bloem_fm
-client project
+flutter project
